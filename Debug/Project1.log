@@ -1,0 +1,27 @@
+﻿  main.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(41,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(42,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(460,24): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(949,11): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(950,11): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(954,18): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(955,18): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(957,10): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(958,10): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(965,28): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(1023,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(1030,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project1\Project1\main.cpp(1030,12): warning C4244: GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Project1.vcxproj -> C:\Users\Xiaomi\source\repos\Project1\Debug\Project1.exe
